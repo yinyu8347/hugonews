@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = '尹宇'
 theme = 'ananke'
-publishDor = "docs"
+publishDir = "docs"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
