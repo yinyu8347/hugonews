@@ -10,3 +10,12 @@ defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+
+canonifyurls = true
+theme = 'ananke'
+title = 'https://yinyu8347.github.io/hugonews/'
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
